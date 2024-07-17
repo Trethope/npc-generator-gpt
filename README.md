@@ -1,4 +1,4 @@
-# NPC Generator (GPT) for D&D 5e
+# NPC Generator (GPT) for D&D 5e (This fork is for adding more options only. No other changes are being made)
 This Foundry VTT module allows users to generate random NPCs using ChatGPT APIs.
 
 ##
