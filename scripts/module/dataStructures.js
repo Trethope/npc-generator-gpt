@@ -12,6 +12,7 @@ export class npcGenGPTDataStructure {
         'halfling-common', 'halfling-lightfoot', 'halfling-stout',
         'halforc',
         'human',
+        'orc',
         'tiefling'
     ];
     static commonerList = [
@@ -51,6 +52,7 @@ export class npcGenGPTDataStructure {
         halfling: { movement: { walk: 25 }, size: "sm", senses: { darkvision: 0 }, lang: ["common", "halfling"] },
         halforc: { movement: { walk: 30 }, size: "med", senses: { darkvision: 60 }, lang: ["common", "orc"] },
         human: { movement: { walk: 30 }, size: "med", senses: { darkvision: 0 }, lang: ["common"] },
+        orc: { movement: { walk: 30 }, size: "med", senses: { darkvision: 60 }, lang: ["common", "orc"] },
         tiefling: { movement: { walk: 30 }, size: "med", senses: { darkvision: 60 }, lang: ["common", "infernal"] }
     };
 
