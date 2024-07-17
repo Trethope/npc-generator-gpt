@@ -81,6 +81,7 @@
             "halfling-stout": "Stout Halfling",
             "halforc": "Half-Orc",
             "human": "Human",
+            "orc": "Orc",
             "tiefling": "Tiefling"
         },
         "subtype": {
